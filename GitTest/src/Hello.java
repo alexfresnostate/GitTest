@@ -9,6 +9,9 @@ public class Hello {
 		System.out.println("test multi user");
 		
 		//
+		Print p = new Print();
+		p.test();
+		
 	}
 
 }
