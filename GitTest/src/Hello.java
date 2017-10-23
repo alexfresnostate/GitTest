@@ -5,6 +5,7 @@ public class Hello implements IPrint{
 	{
 		//hey hey test
 		System.out.println("Hello");
+		//test push
 	}
 
 }
